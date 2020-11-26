@@ -78,7 +78,7 @@
     <main>
         <div class="mx-auto text-center">
             <h1 class="display-4 mt-4">NUESTROS PRODUCTOS</h1>
-            <p class="lead"><img src="img/contraentrega.png" width="80em" alt=""> Paga al recibir  o <img src="img/pagotarjeta.jpg" width="80em" alt=""> Paga con tarjeta</p>
+            <p class="lead"><img src="img/contraentrega.png" width="80em" alt=""> Paga al recibir</p>
             
         </div>
         <center>
