@@ -13,6 +13,7 @@
 	<link rel="stylesheet" href="css/stylesheet.css">
   <script src="https://kit.fontawesome.com/248401fc7e.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.20/kt-2.5.1/datatables.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <title>Login</title>
 </head>
@@ -30,6 +31,7 @@
     </header>
   <div class="container">
     <form action="autentica.php" method="post">
+        <a href="index.php"><i class="fa fa-arrow-left"></i>Regresar</a>
         <center>
           <h2>AUTENTICACIÓN</h2> <br> <br>
         </center>

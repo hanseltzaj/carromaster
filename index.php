@@ -31,7 +31,14 @@
                                 Compra en línea
                             </a>
                         </li>
+                        
                     </ul>
+                    <ul class="navbar-nav" style="margin-left:80%"><li class="nav-item" >
+                            <a  style="font-size:1.1em;" href="loginadmin.php" >
+                                Log in
+                            </a>
+                        </li>
+                        </ul>
                 </div>
             
             </nav>
@@ -92,24 +99,24 @@
                 <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
                     <h6 class="text-uppercase font-weight-bold">VISIÓN</h6>
                     <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p style="text-align: justify;">Ser el proveedor #1 en Materiales y equipos eléctricos, Iluminación, y Herramientas, logrando la satisfacción total del consumidor con la CALIDAD en los productos y servicios que ofrecemos.</p>
+                    <p style="text-align: justify;">Ser el proveedor #1 en materiales de oficina, escolar y particular, logrando la satisfacción total del consumidor con la CALIDAD en los productos y servicios que ofrecemos.</p>
                 </div>
                 <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
                     <h6 class="text-uppercase font-weight-bold">MISIÓN</h6>
                     <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                    <p style="text-align: justify;">Somos una empresa Innovadora en CALIDAD de Materiales y Mano de obra, siempre buscando que nuestros Productos sean preferidos por los clientes  y que cada contacto de BELHSA al consumidor final sea una experiencia positiva.</p>
+                    <p style="text-align: justify;">Somos una empresa Innovadora en CALIDAD de Materiales y Mano de obra, siempre buscando que nuestros Productos sean preferidos por los clientes  y que cada contacto de EL PEREGRINO al consumidor final sea una experiencia positiva.</p>
                 </div>
                 <div class="col-md-3 col-lg-4 col-xl-3 mb-4">
                     <h6 class="text-uppercase font-weight-bold">Contáctanos</h6>
                     <hr class="teal accent-3 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                     <p>
-                        <i class="fas fa-home mr-3"></i> 13 av. 3-46 zona 3, Quetzaltenango</p>
+                        <i class="fas fa-home mr-3"></i> Calle principal, zona 1, Nahualá, Sololá</p>
                     <p>
-                        <i class="fas fa-envelope mr-3"></i> ventas@belhsa.com.gt</p>
+                        <i class="fas fa-envelope mr-3"></i> ventas@elperegrino.com.gt</p>
                     <p>
-                        <i class="fas fa-phone mr-3"></i> (502) 7765 1212</p>
+                        <i class="fas fa-phone mr-3"></i> (502) 5783 8647</p>
                     <p>
-                        <i class="fas fa-print mr-3"></i> (502) 7765 1213</p>
+                        <i class="fas fa-print mr-3"></i> (502) 7777 7777</p>
                 </div>
             </div>
         </div>
