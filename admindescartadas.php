@@ -93,10 +93,6 @@
                                         Dirección : <p><?php echo $row2['dCliente'];?></p>
                                         Teléfono : <p><?php echo $row2['tCliente'];?></p>
                                         Correo electrónico : <p><?php echo $row2['cCliente'];?></p>    
-                                        Nombre en tarjeta : <p><?php echo $row2['nTarjeta'];?></p>
-                                        Número de tarjeta : <p><?php echo $row2['numTarjeta'];?></p>
-                                        CCV : <p><?php echo $row2['codTarjeta'];?></p>
-                                        Fecha tarjeta : <p><?php echo $row2['fechaTarjeta'];?></p>
                                         </center></td>
                                         <?php 
                                             $idcomp = $row['idCompra'];

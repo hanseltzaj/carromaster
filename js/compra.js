@@ -92,7 +92,7 @@ function procesarCompra(e){
     {
         let listaproductos = compra.obtenerProductosLocalStorage();
         var data = { nitc:nit.value, clie:cliente.value, depa:departamento.value, munic:municipio.value, dire:direccion.value, tel:telefono.value, emc:correo.value, 
-                    ntar:nombretarjeta.value, numtar:tarjetanumero.value, codtar:ccv.value, fetar:fechatarjeta.value, listaprod:listaproductos};
+                     listaprod:listaproductos};
         $.ajax({
             url: "insertacompra.php",
             data: data,
