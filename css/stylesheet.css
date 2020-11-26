@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Gugi|Lato|Roboto|Sofia&display=swap');
+
+:root{
+    --light-gray: #2b3032a1;
+    --primary-color: #0A0864;
+    --border: #2b303218;
+    --text-color: #ff686b;
+    --roboto: "Roboto", sans-serif;
+    --gugi: "Gugi", cursive;
+    --sofia: "Sofia", cursive;
+}
+
+.primary-color {
+    color: var(--primary-color);
+}
+
+.bg-primary-color {
+    background-color: var(--primary-color)!important;
+}
+
+.text-color {
+    color: var(--text-color);
+}
+
+.font-roboto{
+    font-family: var(--roboto);
+}
+.font-sofi{
+    font-family: var(--sofia);
+}
+.lightblue {
+    color: lightblue;
+}
+
+header{
+    background-color: var(--primary-color);
+    font-family: var(--roboto);
+}
+
+header .site-title{
+    font-family: var(--gugi);
+}
+
+.container .dropdown-toggle,
+.container .dropdown-item {
+    font-size: 0.7em;
+}
+
+.header-links a {
+    font-size: 0.9em;
+    text-decoration: none;
+    color: white;
+}
+.textwhite {
+    color: white;
+}
+.logito {
+    width: 3em;
+    height: 3em;
+}
+video {
+    vertical-align: middle; }
+
+.video-container {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: absolute; }
+    .video-container video {
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%); }
+
+.hidden {
+    display: none !important; }
+
+.absolute {
+    position: absolute; }
+          
+.fixed {
+    position: fixed; }
+          
+.relative {
+    position: relative; }
+
+.static {
+    position: static;
+}
+
+.navbar-nav{
+    padding: 0.8em 0em;
+}
+
+.navbar-nav .nav-link {
+    font-size: 0.9em;
+    color: var(--light-gray) !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 0 1.3em;
+}
+
+.navbar-nav .basket-icon {
+    margin-right: 6.5rem !important;
+}
+
+.productos {
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.product img {
+    width: 250px;
+}
+
+.product h3 {
+    font-size: 1.7em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.card {
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.espacioarriba {
+    padding-top: 2em;
+}
+.botoncito {
+    width: 10em;
+}
+
+.imagentabla {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+.block_containter{
+	width: 1200px;
+	display: block;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+.animal_item{
+    box-sizing: border-box;
+    float: left;
+    width: 23em;
+	padding: 1em;
+}
+.category_item{
+    color: black;
+}
+.hide{
+	transform: scale(0);
+	width: 0;
+	padding: 0;
+	
+}
