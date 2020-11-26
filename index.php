@@ -81,7 +81,7 @@
                         <h6 class="mb-0">Síguenos en las redes sociales</h6>
                     </div>
                     <div class="col-md-6 col-lg-7 text-center text-md-right">   
-                        <a class="fb-ic" href="https://es-la.facebook.com/corporacionbelhsa/">
+                        <a class="fb-ic" href="https://www.facebook.com/Librer%C3%ADa-El-Peregrino-629788267227006">
                             <i class="fab fa-facebook-f white-text mr-4"> </i>
                         </a>
                         <a class="ins-ic">
