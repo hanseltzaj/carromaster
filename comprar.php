@@ -126,7 +126,7 @@
 <div style="background-color: lightblue;">
             <footer id="sticky-footer" class="py-4 text-black">
                 <div class="container text-center">
-                    <small>Copyright &copy; www.belhsa.com.gt</small>
+                    <small>Copyright &copy; librería el Peregrino</small>
                 </div>
             </footer>
         </div>

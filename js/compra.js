@@ -49,8 +49,8 @@ function procesarCompra(e){
     }
     else {
         
-            if(nombretarjeta.value != '' || tarjetanumero.value != '' || ccv.value != '' || fechatarjeta.value != ''){
-                if(nombretarjeta.value === '' || tarjetanumero.value === '' || ccv.value === '' || fechatarjeta.value === ''){
+            if(nit.value === ''){
+                if(cliente.value === ''){
                 Swal.fire({
                 type: 'error',
                 title: 'Oops...',
